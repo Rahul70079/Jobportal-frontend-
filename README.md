@@ -32,6 +32,7 @@ State Management: Context API or Redux Toolkit (if used)
 API Integration: Axios / Fetch API
 
 📂 Project Structure
+
 job-portal-frontend/
 │── public/
 │── src/
