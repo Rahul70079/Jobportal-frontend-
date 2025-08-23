@@ -6,29 +6,19 @@ This project allows job seekers to explore job opportunities and recruiters to p
 ✨ Features
 
 🔍 Browse Jobs – Search and filter jobs by title, location, or category
-
 🏢 Company Listings – View company details and available positions
-
 👤 User Authentication (UI) – Login/Signup pages with validation
-
 💼 Job Details Page – Complete job description with apply option
-
 📝 Application Form (UI only) – User-friendly application form design
-
 📱 Responsive Design – Optimized for mobile, tablet, and desktop
-
 🎨 Modern UI/UX – Clean and attractive frontend with reusable components
 
+
 🛠️ Tech Stack
-
 Frontend: React.js (Hooks, Router, Context/Redux)
-
 Styling: Tailwind CSS / Bootstrap
-
 Icons: React Icons / Lucide React
-
 State Management: Context API or Redux Toolkit (if used)
-
 API Integration: Axios / Fetch API
 
 📂 Project Structure
@@ -46,34 +36,7 @@ job-portal-frontend/
 
 
 🤝 Contributing
-
 Contributions are welcome! Please fork the repo and submit a pull request.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # React + Vite
