@@ -16,13 +16,9 @@ This project allows job seekers to explore job opportunities and recruiters to p
 
 🛠️ Tech Stack
 Frontend: React.js (Hooks, Router, Context/Redux)
-
 Styling: Tailwind CSS / Bootstrap
-
 Icons: React Icons / Lucide React
-
 State Management: Context API or Redux Toolkit (if used)
-
 API Integration: Axios / Fetch API
 
 📂 Project Structure
