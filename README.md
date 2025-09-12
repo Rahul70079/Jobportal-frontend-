@@ -21,6 +21,7 @@ This project allows job seekers to explore job opportunities and recruiters to p
 
 
 🛠️ Tech Stack
+
 Frontend: React.js (Hooks, Router, Context/Redux)
 
 Styling: Tailwind CSS / Bootstrap
