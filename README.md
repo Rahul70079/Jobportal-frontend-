@@ -33,6 +33,7 @@ State Management: Context API or Redux Toolkit (if used)
 API Integration: Axios / Fetch API
 
 
+
 📂 Project Structure
 
 job-portal-frontend/
@@ -50,7 +51,6 @@ job-portal-frontend/
 
 🤝 Contributing
 Contributions are welcome! Please fork the repo and submit a pull request.
-
 
 # React + Vite
 
