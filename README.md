@@ -35,6 +35,7 @@ API Integration: Axios / Fetch API
 
 📂 Project Structure
 
+
 job-portal-frontend/
 │── public/
 │── src/
@@ -49,7 +50,8 @@ job-portal-frontend/
 
 
 🤝 Contributing
-Contributions are welcome! Please fork the repo and submit a pull request.
+Contributions are welcome! Please fork the repo and submit a pull request
+
 
 # React + Vite
 
