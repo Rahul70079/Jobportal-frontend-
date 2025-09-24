@@ -21,6 +21,7 @@ This project allows job seekers to explore job opportunities and recruiters to p
 🎨 Modern UI/UX – Clean and attractive frontend with reusable components
 
 
+
 🛠️ Tech Stack
 
 Frontend: React.js (Hooks, Router, Context/Redux)
