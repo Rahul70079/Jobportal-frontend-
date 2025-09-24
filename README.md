@@ -49,7 +49,6 @@ job-portal-frontend/
 │   └── index.js
 │── package.json
 
-
 🤝 Contributing
 Contributions are welcome! Please fork the repo and submit a pull request
 
