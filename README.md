@@ -1,4 +1,5 @@
 
+
 🚀 Job Portal Frontend
 
 A modern and responsive Job Portal Frontend built with React.js, Tailwind CSS (or Bootstrap) and integrated with REST APIs.
